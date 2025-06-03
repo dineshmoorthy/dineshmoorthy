@@ -115,8 +115,9 @@
 ---
 
 <p align="center">
-  <img src="https://yourhost.com/animated_fire_alien_ship.gif" alt="Animated Background" width="100%" />
+  <img src="./tech-eye.gif" alt="Animated Background" width="100%" />
 </p>
+
 
 ---
 
