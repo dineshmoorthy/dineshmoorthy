@@ -95,7 +95,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dineshmoorthy&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dineshmoorthy&theme=tokyonight" /> 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dineshmoorthy&theme=tokyonight" />
 </p>
 
@@ -123,7 +123,7 @@
 ## 🏅 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Oracle%20Certified%20Professional-Java%20SE%206-ED8B00?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle%20Certified%20Professional-Java%20SE%206-ED8B00?style=for-the-badge&logo=oracle&logoColor=white" /> <br /><br />
   <img src="https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
 
@@ -132,7 +132,7 @@
 ## 🎓 Education
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MSc%20Advanced%20Computer%20Science-University%20of%20Leicester-7B1FA2?style=for-the-badge&logo=gradle&logoColor=white" />
+  <img src="https://img.shields.io/badge/MSc%20Advanced%20Computer%20Science-University%20of%20Leicester-7B1FA2?style=for-the-badge&logo=gradle&logoColor=white" /> <br /><br />
   <img src="https://img.shields.io/badge/Bachelor%20of%20Engineering-Anna%20University-1976D2?style=for-the-badge&logo=academia&logoColor=white" />
 </p>
 
@@ -141,7 +141,7 @@
 ## 🌍 Languages & Other
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IELTS%20Academic-Band%206.5-blue?style=for-the-badge&logo=britishairways&logoColor=white" />
+  <img src="https://img.shields.io/badge/IELTS%20Academic-Band%206.5-blue?style=for-the-badge&logo=britishairways&logoColor=white" /> <br /><br />
   <img src="https://img.shields.io/badge/IELTS%20General-Band%206.5-blue?style=for-the-badge&logo=britishairways&logoColor=white" />
 </p>
 
