@@ -114,19 +114,35 @@
 
 ---
 
+<p align="center">
+  <img src="https://yourhost.com/animated_fire_alien_ship.gif" alt="Animated Background" width="100%" />
+</p>
 
-🏆 Certifications
-Oracle Certified Professional, Java SE 6 Programmer (Oracle University, 2013)
+---
 
-Microsoft Azure Fundamentals (AZ-900) – Microsoft, 2022
+## 🏅 Certifications
 
-🎓 Education
-🎓 MSc in Advanced Computer Science, University of Leicester, UK (2025)
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle%20Certified%20Professional-Java%20SE%206-ED8B00?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
 
-🎓 Bachelor of Engineering, Electronics & Communication – Anna University, India (2009)
+---
 
-🌍 Languages & Other
-IELTS Academic: Band 6.5 (2022)
+## 🎓 Education
 
-IELTS General: Band 6.5 (2020)
+<p align="center">
+  <img src="https://img.shields.io/badge/MSc%20Advanced%20Computer%20Science-University%20of%20Leicester-7B1FA2?style=for-the-badge&logo=gradle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bachelor%20of%20Engineering-Anna%20University-1976D2?style=for-the-badge&logo=academia&logoColor=white" />
+</p>
+
+---
+
+## 🌍 Languages & Other
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IELTS%20Academic-Band%206.5-blue?style=for-the-badge&logo=britishairways&logoColor=white" />
+  <img src="https://img.shields.io/badge/IELTS%20General-Band%206.5-blue?style=for-the-badge&logo=britishairways&logoColor=white" />
+</p>
+
 ****
