@@ -2,8 +2,9 @@
 <h3 align="center">Tech Lead | Senior Software Engineer | Java Expert | Cloud Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2FC8E8&center=true&vCenter=true&multiline=true&width=600&lines=13%2B+Years+of+Software+Development+Experience;Java+%2F+Spring+Boot+%2F+AWS+%2F+Microservices+%2F+Kafka+%2F+CI%2FCD+Expert;Actively+Learning+DSA+%7C+Building+GradProjects.co.uk" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2FC8E8&center=true&vCenter=true&multiline=true&width=600&height=120&lines=13%2B+Years+of+Software+Development+Experience;Java+%2F+Spring+Boot+%2F+AWS+%2F+Microservices+%2F+Kafka+%2F+CI%2FCD+Expert;Actively+Learning+DSA+%7C+Building+GradProjects.co.uk" alt="Typing SVG" />
 </p>
+
 
 ---
 
