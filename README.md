@@ -10,7 +10,7 @@
 
 ### 💼 About Me
 
-- 🔭 I'm currently a **Student** at **University of Leicester** (2022–2024)
+- 🔭 I'm currently a **Student** at **University of Leicester** (2024–2025)
 - 🌱 Passionate about building **Java microservices** with Spring Boot, Cloud & AWS
 - 🚀 Founder of [GradProjects.co.uk](https://gradprojects.co.uk)
 - 👯 Open to collaborations in **React** frontend or Java backend
