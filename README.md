@@ -30,8 +30,7 @@
 [![Email](https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contactdineshmoorthy@gmail.com)
 
 ## Book a 1:1 Session with Me
-
-[![Book a Call on Topmate](https://img.shields.io/badge/Book%20on-Topmate-blue?style=for-the-badge&logo=topmate)](https://topmate.io/yourusername)
+[![Book a Call on Topmate](https://img.shields.io/badge/Book%20on-Topmate-blue?style=for-the-badge&logo=topmate)](https://topmate.io/dinesh_dakshinamoorthy/)
 
 ---
 ## 💻 Tech Stack:
